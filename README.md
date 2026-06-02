@@ -16,8 +16,8 @@
 ----
 
 <div align="center">
-      <img src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=cauanunes1&show_icons=true&theme=tokyonight&layout=compact" width="400px" />
-    </div>
+  <img src="https://github-readme-stats-seven-nu-26.vercel.app/api/top-langs/?username=cauanunes1&show_icons=true&theme=tokyonight&layout=compact" width="400px" />
+</div>
 
 ----
 <div>
